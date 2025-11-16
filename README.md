@@ -7,7 +7,7 @@ A cross-platform React Native application built with Expo that displays a list o
 - 📱 **Cross-Platform**: Single codebase for Web, iOS, and Android
 - 🎨 **Modern UI**: Clean, responsive design using React Native Paper (Material Design 3)
 - 🌓 **Theme Toggle**: Built-in light and dark mode support
-- 🔍 **Smart Filters**: Filter activities by type and status
+- 🔍 **Smart Filters**: Filter by type and status
 - 📊 **Activity Types**: Online Classes, Assignments, Quizzes, and Discussions
 - ✅ **Status Tracking**: Not Started, In Progress, and Completed states
 - 🎯 **Action Buttons**: Context-aware Start/Continue/Review buttons

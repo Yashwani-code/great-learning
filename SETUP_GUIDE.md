@@ -3,8 +3,7 @@
 ## 📦 Installation
 
 ```bash
-# Navigate to project directory
-cd "C:\Users\ADMIN\Desktop\GL Project"
+
 
 # Install dependencies
 npm install
